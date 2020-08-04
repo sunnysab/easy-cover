@@ -1,0 +1,12 @@
+[package]
+name = "easy-cover"
+version = "0.1.0"
+authors = ["sunnysab <sunnysab@yeah.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+imageproc = { version = "0.21", features = ["display-window"] }
+image = "0.23"
+rusttype = "0.9"
