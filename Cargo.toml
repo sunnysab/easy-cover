@@ -10,3 +10,4 @@ edition = "2018"
 imageproc = { version = "0.21", features = ["display-window"] }
 image = "0.23"
 rusttype = "0.9"
+jieba-rs = "0.6"
